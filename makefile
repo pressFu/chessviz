@@ -1,2 +1,2 @@
 main.exe: main.c
-	gcc -Wail -Werror main.c main.exe
+	gcc -Wall -Werror main.c main.exe
